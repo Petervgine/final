@@ -9,4 +9,4 @@ const displayINRCurrency = (num) => {
 
 }
 
-export default displayINRCurrency
+export default displaykshCurrency
